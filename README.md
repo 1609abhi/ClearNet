@@ -1,5 +1,9 @@
 # ClearNet — All-in-One Image Restoration
 
+**Accepted at WACV 2027**
+
+**Authors:** [Abhinav Kumar, Aditya Chauhan, Laabhanvi Jain]
+
 ## Abstract
 
 ClearNet is an all-in-one image restoration model that handles multiple degradation types (denoising, deraining, dehazing, deblurring, low-light enhancement) with a single unified network. It introduces Degradation-Aware Normalization (DAN) with a spatial degradation map to condition the shared backbone on the degradation type and its spatial extent, achieving state-of-the-art performance with only 26M parameters.
@@ -94,7 +98,7 @@ Download the required datasets and place them under `datasets/`.
 
 ### Pretrained Model Weights
 
-The pretrained D5 (five-degradation) checkpoint is included at `ckpts/cd5.pth`. It handles all five tasks: Denoising, Deraining, Dehazing, Deblurring, and Low-light Enhancement.
+Pretrained model weights will be released soon.
 
 
 ---
