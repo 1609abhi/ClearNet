@@ -2,7 +2,7 @@
 
 **Accepted at WACV 2027**
 
-**Authors:** [Abhinav Kumar, Aditya Chauhan, Laabhanvi Jain]
+**Authors:** Abhinav Kumar, Aditya Chauhan, Laabhanvi Jain
 
 ## Abstract
 
